@@ -90,6 +90,20 @@
             <artifactId>spring-test</artifactId>
             <version>3.2.8.RELEASE</version>
         </dependency>
+
+
+        <!-- log4j module -->
+        <dependency>
+            <groupId>commons-logging</groupId>
+            <artifactId>commons-logging</artifactId>
+            <version>1.2</version>
+        </dependency>
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.17</version>
+        </dependency>
+
     </dependencies>
 
 </project>
